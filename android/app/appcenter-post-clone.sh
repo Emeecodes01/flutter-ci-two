@@ -18,7 +18,7 @@ echo "Installed flutter to `pwd`/flutter"
 #----------------UNCOMMENT ANY MFB YOU WANT TO BUILD ----------------------------#
 #flutter build apk --release
 
-flutter build apk --flavor flavor1 -t lib/adeyemi_main.dart
+flutter build apk --flavor flavor1 -t lib/main.dart
 #flutter build apk --flavor albarakahmfb -t lib/albarakah_main.dart
 #flutter build apk --flavor assetsmfb -t lib/assets_main.dart
 #flutter build apk --flavor bainescreditmfb -t lib/bainescredit_main.dart
